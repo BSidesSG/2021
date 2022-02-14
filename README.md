@@ -17,7 +17,7 @@
 | Hunt the Beasts in the Bits A Proactive Approach			   | Meisam Eslahi                             |
 | Hacking Modern Desktop apps with XSS and RCE 				   | Abraham Aranguren                        |
 | OAuth Bypass Technique		                               | Sheikh Rizan                             |
-| Finding the unknown before it finds your					   | Vandana Verma Sehgal                               |
+| Finding the unknown before it finds you					   | Vandana Verma Sehgal                               |
 | Intercepting Mobile App Network Traffic aka The Squirrel in the middle    | Sven Schleier                     |
 | Cybersecurity & The Board - Choosing success over the Sarlacc Pit         | Brian Contos                            |
 | Attacking and Defending Hybrid Active Directory Environments | Anurag Khanna, Thirumalai Natarajan                             |
